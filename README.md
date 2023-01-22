@@ -1,7 +1,6 @@
-### Hi there 👋
-
+<img align="center" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="250" />
 <h1 align="center">Hi 👋, I'm Shreyansh Parashar</h1>
-<h3 align="center">A begginer web developer</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=435&height=53&lines=I'm+a+web+developer" alt="Typing SVG" /></a></h3>
 
 - 🔭 I’m currently working on **my own portfolio website**
 
@@ -9,7 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/shreyansh-parashar-a0882025a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="shreyansh_parashar" height="30" width="30" /></a>
 <a href="https://instagram.com/shreyansh_parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyansh_parashar" height="30" width="40" /></a>
+  <a href="linktr.ee/shreyanshparashar" target="blank"><img align="center" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="shreyansh_parashar" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
